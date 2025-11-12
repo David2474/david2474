@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m  software developer with more two years of experience working and development web sites<br>
+🔭 ## 👋 Hey! I'm a Frontend Developer<br>
+
+I'm a frontend developer with over **2 years of experience** collaborating with **design, backend, and product teams** to build functional and well-structured web applications.  
+I enjoy working on projects where code has a **visible impact on people**, improving how they interact with technology.
+
 
 
 ## 🌐 Socials:
